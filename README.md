@@ -1,6 +1,6 @@
-# demo
-demo Github 
-Apprentissage de git 
-on re-modifie pour pull pour apprendre
- RE-modification
- encore pour apprendre
+
+SchoolOfCitinzenship
+
+
+Application de e-commerce construite avec le framework MVC
+>>>>>>> f964f03 Modification faite
